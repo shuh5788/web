@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+td {
+  padding: 25px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.firstitem {
+  border: 2px solid;
+}
+.seconditem {
+  border: 2px solid;
+}
+.thirditem {
+  border: 2px solid;
+}
+.fourthitem {
+  border: 2px solid;
+}
+.fifthitem {
+  border: 2px solid;
+}
+.sixthitem {
+  border: 2px solid;
+}
+#imageone:hover {
+  border: 3px solid yellow;
+}
+#imagetwo:hover {
+  border: 3px solid yellow;
+}
+#imagethree:hover {
+  border: 3px solid yellow;
+}
+#imagefour:hover {
+  border: 3px solid yellow;
+}
+#imagefive:hover {
+  border: 3px solid yellow;
+}
+#imagesix:hover {
+  border: 3px solid yellow;
+}
